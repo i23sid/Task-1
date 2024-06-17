@@ -31,4 +31,4 @@ Following are the attached files:
 2. Task-2:
    Jupyter notebook code file
 3. Report-2:
-   Summary of Segemntation steps
+   Summary of Segmentation steps
