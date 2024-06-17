@@ -1,4 +1,5 @@
 Market Segmentation Analyis
+
 Market segmentation is the process of dividing a broad consumer or business market, normally consisting of existing and potential customers, into sub-groups of consumers (known as segments) based on some type of shared characteristics. The goal is to identify segments that are likely to respond similarly to marketing strategies, allowing businesses to target these segments more effectively.
 
 Folowing are the Ten Steps of Market Segmentation Analysis
