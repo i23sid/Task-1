@@ -28,7 +28,7 @@ Following are the attached files:
 
 1. mcdonalds.csv:
    Dataset used
-2. Task-2:
+2. Task_implementation:
    Jupyter notebook code file
-3. Report-2:
+3. Report:
    Summary of Segmentation steps
